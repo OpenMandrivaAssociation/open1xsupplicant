@@ -11,7 +11,7 @@ BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	desktop-file-utils
 BuildRequires:	kdelibs-devel
 BuildRequires:	libxml2-utils
-BuildRequires:	perl
+BuildRequires:	perl imagemagick
 Requires:	xsupplicant
 
 %description
