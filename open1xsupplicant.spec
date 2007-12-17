@@ -7,7 +7,6 @@ Group:		Networking/Remote access
 Url:		http://alumni.ipt.pt/~caceres/open1xsupplicant
 Source0:	%{name}-%{version}.tar.gz
 Source1:	network_traffic_wlan.png
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires:	desktop-file-utils
 BuildRequires:	kdelibs-devel
 BuildRequires:	libxml2-utils
