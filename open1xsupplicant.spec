@@ -1,7 +1,7 @@
 Name:		open1xsupplicant
 Summary:	Graphical interface to work with Xsupplicant
 Version:	0.1
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	GPL
 Group:		Networking/Remote access
 Url:		http://alumni.ipt.pt/~caceres/open1xsupplicant
