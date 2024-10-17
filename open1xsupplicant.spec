@@ -4,7 +4,7 @@ Version:	0.1
 Release:	%mkrel 4
 License:	GPL
 Group:		Networking/Remote access
-Url:		http://alumni.ipt.pt/~caceres/open1xsupplicant
+Url:		https://alumni.ipt.pt/~caceres/open1xsupplicant
 Source0:	%{name}-%{version}.tar.gz
 Source1:	network_traffic_wlan.png
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
