@@ -8,6 +8,11 @@ Url:		https://alumni.ipt.pt/~caceres/open1xsupplicant
 Source0:	%{name}-%{version}.tar.gz
 Source1:	network_traffic_wlan.png
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	desktop-file-utils
 BuildRequires:	kdelibs-devel
 BuildRequires:	libxml2-utils
